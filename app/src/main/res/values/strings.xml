@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Treasure Hunt</string>
+    <string name="submit">Create new vacation</string>
+    <string name="hotel">Hotel</string>
+    <string name="roadtrip">Road trip</string>
+    <string name="button_text">Save</string>
+</resources>
